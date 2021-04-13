@@ -26,6 +26,8 @@
 .nav .navIcon p{
     transform: translate(-175%, 100%);
     font-weight: bold;
+    outline: none;
+    user-select: none;
 }
 
 .nav .navIcon .bars{
