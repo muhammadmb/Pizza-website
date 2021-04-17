@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/Pizza-website/static/css/main.de55e3ca.chunk.css",
-    "main.js": "/Pizza-website/static/js/main.31c81e3c.chunk.js",
-    "main.js.map": "/Pizza-website/static/js/main.31c81e3c.chunk.js.map",
-    "runtime-main.js": "/Pizza-website/static/js/runtime-main.2cb2d903.js",
-    "runtime-main.js.map": "/Pizza-website/static/js/runtime-main.2cb2d903.js.map",
-    "static/js/2.c83c664d.chunk.js": "/Pizza-website/static/js/2.c83c664d.chunk.js",
-    "static/js/2.c83c664d.chunk.js.map": "/Pizza-website/static/js/2.c83c664d.chunk.js.map",
-    "static/js/3.67204dc0.chunk.js": "/Pizza-website/static/js/3.67204dc0.chunk.js",
-    "static/js/3.67204dc0.chunk.js.map": "/Pizza-website/static/js/3.67204dc0.chunk.js.map",
+    "main.css": "/Pizza-website/static/css/main.082814f5.chunk.css",
+    "main.js": "/Pizza-website/static/js/main.3286155b.chunk.js",
+    "main.js.map": "/Pizza-website/static/js/main.3286155b.chunk.js.map",
+    "runtime-main.js": "/Pizza-website/static/js/runtime-main.0e30af21.js",
+    "runtime-main.js.map": "/Pizza-website/static/js/runtime-main.0e30af21.js.map",
+    "static/js/2.97af8b2c.chunk.js": "/Pizza-website/static/js/2.97af8b2c.chunk.js",
+    "static/js/2.97af8b2c.chunk.js.map": "/Pizza-website/static/js/2.97af8b2c.chunk.js.map",
+    "static/js/3.993bda3e.chunk.js": "/Pizza-website/static/js/3.993bda3e.chunk.js",
+    "static/js/3.993bda3e.chunk.js.map": "/Pizza-website/static/js/3.993bda3e.chunk.js.map",
     "index.html": "/Pizza-website/index.html",
-    "static/css/main.de55e3ca.chunk.css.map": "/Pizza-website/static/css/main.de55e3ca.chunk.css.map",
-    "static/js/2.c83c664d.chunk.js.LICENSE.txt": "/Pizza-website/static/js/2.c83c664d.chunk.js.LICENSE.txt",
+    "static/css/main.082814f5.chunk.css.map": "/Pizza-website/static/css/main.082814f5.chunk.css.map",
+    "static/js/2.97af8b2c.chunk.js.LICENSE.txt": "/Pizza-website/static/js/2.97af8b2c.chunk.js.LICENSE.txt",
     "static/media/IntroStyle.css": "/Pizza-website/static/media/Intro.a71ffd6c.jpg",
+    "static/media/Feature.css": "/Pizza-website/static/media/featured3.3bbf999d.jpg",
     "static/media/product-1.36d084f3.jpg": "/Pizza-website/static/media/product-1.36d084f3.jpg",
     "static/media/product-2.4c066971.jpg": "/Pizza-website/static/media/product-2.4c066971.jpg",
     "static/media/product-3.115cc32b.jpg": "/Pizza-website/static/media/product-3.115cc32b.jpg",
@@ -21,9 +22,9 @@
     "static/media/sweet3.c495c742.jpg": "/Pizza-website/static/media/sweet3.c495c742.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cb2d903.js",
-    "static/js/2.c83c664d.chunk.js",
-    "static/css/main.de55e3ca.chunk.css",
-    "static/js/main.31c81e3c.chunk.js"
+    "static/js/runtime-main.0e30af21.js",
+    "static/js/2.97af8b2c.chunk.js",
+    "static/css/main.082814f5.chunk.css",
+    "static/js/main.3286155b.chunk.js"
   ]
 }
