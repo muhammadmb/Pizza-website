@@ -46,6 +46,7 @@
     transition: 0.2s ease-in-out;
     text-decoration: none;
     color: #000;
+    margin-top: 2.5rem;
 }
 
 .container .sidebar-menu .sidebar-link:hover{

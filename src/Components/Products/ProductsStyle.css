@@ -30,6 +30,13 @@
     min-width: 300px;
     max-width: 100%;
     box-shadow: 8px 8px #FDC500;
+    transition: .3s ease-in-out;
+}
+
+.products-container .product-wrapper .product-card .product-img:hover{
+    transform: scale(1.1);
+    transition: .3s ease-in-out;
+    box-shadow: none;
 }
 
 .products-container .product-wrapper .product-card .product-info{
@@ -61,6 +68,8 @@
     border: none;
     background: #E31837;
     color: #FFF;
+    border-radius: 5px;
+    outline: none;
     transition: .2s ease-out;
 }
 

@@ -1,0 +1,40 @@
+.feature-container{
+    background-image: url('../../Images/featured3.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color :#FFF;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.feature-container h1{
+    font-size: clamp(3rem, 5vw, 5rem);
+}
+
+.feature-container p{
+    margin-bottom: 1rem;
+    font-size: clamp(1rem, 3vw, 2rem);
+}
+
+.feature-container button{
+    font-size: 1.4rem;
+    padding: 0.6rem 3rem;
+    border: none;
+    outline: none;
+    color: #000;
+    transition: 0.2s ease-out;
+    border-radius: 5px;
+    background-color: #fdc600;
+}
+
+.feature-container button:hover{
+    color: #FFF;
+    background: #E31837;
+    transition: 0.2s ease-out;
+    cursor: pointer;
+}
